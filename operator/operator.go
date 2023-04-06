@@ -1,3 +1,5 @@
+package operator
+
 func main() {
 	var (
 		a, b float32 = 12.0, 3.14
