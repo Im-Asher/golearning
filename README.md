@@ -18,3 +18,4 @@
 | 🎈Map                | Map集合                            |
 | 🥳Recursive Function | 递归函数                           |
 | 🦒Casting            | 类型转换                           |
+| 🐽Interface          | 接口                               |
