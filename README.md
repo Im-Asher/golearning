@@ -19,3 +19,4 @@
 | 🥳Recursive Function | 递归函数                           |
 | 🦒Casting            | 类型转换                           |
 | 🐽Interface          | 接口                               |
+| 🦊Error              | 错误处理                           |
